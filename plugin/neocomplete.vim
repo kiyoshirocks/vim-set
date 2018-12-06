@@ -7,7 +7,7 @@
 " 2. download vim source code - https://github.com/vim/vim
 "
 "     git clone https://github.com/vim/vim.git ~/vim && cd ~/vim
-"     ./configure --with-features=huge --enable-pythoninterp=yes  --enable-cscope --enable-fontset --enable-perlinterp --enable-rubyinterp --with-python-config-dir=/usr/lib/python2.7/config --with-luajit --enable-luainterp --with-lua-prefix=/usr/local
+"     ./configure --with-features=huge --enable-pythoninterp=yes  --enable-cscope --enable-fontset --enable-perlinterp --enable-rubyinterp --with-python-config-:qdir=/usr/lib/python2.7/config --with-luajit --enable-luainterp --with-lua-prefix=/usr/local
 "     sudo make
 "     sudo make install
 "

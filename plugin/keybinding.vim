@@ -74,6 +74,8 @@ nmap c<space>     <plug>NERDCommenterToggle<DOWN>
 map  <C-t> :call TabToSpaces()<CR>
 map! <C-t> <Esc>:call TabToSpaces()<CR>
 
+xmap ga <Plug>(EasyAlign)
+nmap ga <Plug>(EasyAlign)
 
 
 " ----------------------------------------------------
