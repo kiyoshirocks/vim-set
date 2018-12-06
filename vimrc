@@ -1,6 +1,3 @@
-" execute pathogen#infect()
-" syntax on
-" filetype plugin indent on
 """"""""""""""""""""""""""""""""""""""""""""""""""
 " custom key binding reference:
 " <F1>  NERDTree    <F2>  TagBar
